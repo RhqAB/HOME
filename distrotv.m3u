@@ -689,8 +689,9 @@ http://172.19.178.180/servers-stailer/49srv.php?stream=sonysportsten5&format=m3u
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA36e4vV7XSrHOSHiactw9ns/ts
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/ts
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",Bein Sport 2
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw/ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",Bein Sports 3
@@ -1399,6 +1400,65 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
 
 
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", Star Jalsha
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/ts
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/revision/latest?cb=20210901025604",Zee Bangla HD
+http://172.19.178.180/servers-stailer/59srv.php?stream=zeebangla&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/20240803-101812-removebg-preview.png", Enterr10 Bangla
+
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",SONY AATH 
+http://172.19.178.180/servers-stailer/59srv.php?stream=sonyaath&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla
+http://172.19.178.180/servers-stailer/59srv.php?stream=colorsbangla&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411", Sun Bangla
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Rupashi_Bangla_logo_with_slogan_%282013%29.png/revision/latest/scale-to-width-down/250?cb=20210424142050", Ruposhi Bangla
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",KHUSHBOO BANGLA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o/ts
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest/scale-to-width-down/300?cb=20210509111354", Aakash Aath
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp/revision/latest/scale-to-width-
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus
+http://172.19.178.180/servers-stailer/147srv.php?stream=starplus&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwYelnJj-4e_U5eWEk3gCso/ts
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",Star Vijay 
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI/ts
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://172.19.178.180/servers-stailer/147srv.php?stream=colors&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png", Colors Rishtey
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony Entertainment Television
+http://172.19.178.180/servers-stailer/147srv.php?stream=sonyentertainmenttelevision&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0rimonGYG3V4hw_DPOXUBn5AIjXgeE7S2g&s",Sony SAB
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png", SONY PAL
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1200?cb=20240615084342",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Big_Magic_logo.png", Big Magic
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zee_anmol.png/1280px-Zee_anmol.png",Zee Anmol
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&tv HD
+http://172.19.178.180/servers-stailer/147srv.php?stream=andtv&format=m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest/scale-to-width-down/200?cb=20210514114903",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/download.png",DD National
+
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest?cb=20200827090349", ETV HD
+
+
 
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",Geo News
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/m3u8
@@ -1557,12 +1617,12 @@ http://172.105.123.238:18002/play/a002
 http://172.105.123.238:18002/play/a05r
 http://starshare.org:8080/live/134134/134134/4045.ts
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", Aaj Tak
+https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg", ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 
-https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Zee_News_2023.png/revision/latest/scale-to-width-down/220?cb=20230706224129",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 http://172.105.123.238:18002/play/a01i
