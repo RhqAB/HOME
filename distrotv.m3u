@@ -1954,7 +1954,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/346360.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=132073&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png",CNN
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://images.seeklogo.com/logo-png/3/2/cnn-international-logo-png_seeklogo-32708.png",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
@@ -1976,11 +1976,11 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_World.svg/revision/latest?cb=20211029170850",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_-512x512.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://images.seeklogo.com/logo-png/52/2/abc-news-logo-png_seeklogo-529416.png",abc news
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2007.png",abc news
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
