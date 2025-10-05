@@ -566,7 +566,7 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/chunklist_w1371015493.m3u8
 https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist_w736643326.m3u8
 
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/T_Sports_logo.svg.png",T Sports 
 http://116.204.149.16/t_sports/index.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
 http://bapatv.live:8080/tsports3/tracks-v1a1/mono.m3u8
@@ -574,7 +574,7 @@ http://xtv.ooo:8080/live/03353290992/03353290992/245901.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
 http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Backup
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/T_Sports_logo.svg.png",T Sports Backup
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://103.190.85.38/hls/tsports.m3u8
@@ -596,7 +596,7 @@ http://tv.indigotv.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:4A:02:
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Backup 2
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/T_Sports_logo.svg.png",T Sports Backup 2
 http://172.19.178.180/servers-stailer/49srv.php?stream=tsports&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD 
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/m3u8
