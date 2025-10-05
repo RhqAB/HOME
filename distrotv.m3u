@@ -2042,7 +2042,7 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg",CNA
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest?cb=20230219122811",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
@@ -2069,7 +2069,7 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://live.playstop.me/LS-63503-4/chunklist_b341000.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/IRINN_logo_%282025%29.png/revision/latest/scale-to-width-down/145?cb=20250624110603", IRINN
 https://live-bshto1202.telewebion.com/ek/irinn/live/480p/index.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg",RTA News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png",RTA News
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/02.m3u8
 
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png",SABC News
