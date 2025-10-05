@@ -1,4 +1,4 @@
-#EXTM3U
+4#EXTM3U
 
 
 
@@ -28,12 +28,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV National Backup 2
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV National (Video Only)
 http://103.230.105.252:1935/live/btv/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg/revision/latest", Btv Chattogram
-https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National BDIX
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV National BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_aUpnu3HM2-2nxHKbDe3FA/ts
 http://172.19.178.180/servers-stailer/39srv.php?stream=btv&format=m3u8
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg/revision/latest", Btv Chattogram
+https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 
 
