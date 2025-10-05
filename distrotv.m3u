@@ -1955,7 +1955,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/346360.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=132073&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://images.seeklogo.com/logo-png/3/2/cnn-international-logo-png_seeklogo-32708.png",CNN
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
@@ -1986,7 +1986,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24
 https://amg00106-france24-france24-samsungit-ya8pw.amagi.tv/playlist/amg00106-france24-france24-samsungit/cb573d1e786c64899dd43a62cef24482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae774cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e955178a65f4b7011bc67b45fa83439c8201b3d6820d8311d374a2109496f882db44d08cb9599e06e627475c2c69ebed13f8d26997e8bd4c0db3411c5b44158ccd92fa5d7287575363fcf0c6be6cf161a0e3499a41078b3fbc60a911a345b753db8b22a1a9a8914351299bca5a6c22d289cae0e014038d59d583c4f86e26e79c797943da23cc21142b84efc21a83b178fcdd38b197562e0cf2b86bbc80e8f385d98c4e8f6bc9c8e4883c302d096552dc2ec8fd6cdf3a937ca1ca6149362b5f9da97ce09beb345a023de6fa3e9e7349d9e146e2b50116c57a1256e461960e4b3c8c7c5b75eb29f68d2f2ca7124ad46573ab0375b74bf2ee78aee7c3b35272f5ffd752f36ad8b008f9ff16e6386f0e4ce0a46c176e6449fdc22a4d3c70c840a4f4cfe27c0649acd4c5eccf5e3d4868440342dbacb73ecbcef3281b17d35a6935274759c552a41cb56a7e0920cd11c4bf4925d5744603d2e76e0d143cec8bdbe7a0d9c543b97aa9bfde313d345466fd7e451167ddb2824eee7a2c5a7f4e8b1b6b53b7650316f2f429845028fd15faa172a9b2e6c3f9d930797b5327aa511d/94/848x480_1686360/index.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
@@ -2070,7 +2070,7 @@ https://live-bshto1202.telewebion.com/ek/irinn/live/480p/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg",RTA News
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/02.m3u8
 
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/South_African_Broadcasting_Corporation_logo.svg",SABC News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/13JtFJf9/sabcnews.png",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png",TAIWAN+.
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
