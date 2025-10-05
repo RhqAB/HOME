@@ -2066,14 +2066,14 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://live.playstop.me/LS-63503-4/chunklist_b341000.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/IRINN_logo_%282025%29.png/revision/latest/scale-to-width-down/145?cb=20250624110603", IRINN
 https://live-bshto1202.telewebion.com/ek/irinn/live/480p/index.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg",RTA News
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/02.m3u8
 
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="httdia/images/9/99/Bah5500",SABC News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/South_African_Broadcasting_Corporation_logo.svg",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png",TAIWAN+.
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://pare",Top News Thailand
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/TOP_TV_Tentative.png/revision/latest?cb=20210208132330",Top News Thailand
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
