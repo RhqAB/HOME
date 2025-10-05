@@ -521,7 +521,7 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif",Huda TV
 
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKc759OGgJQNsTjRlumAmkSZh7FiyQvBW02A&s",Hilaal TV
-https://cdn149.anystream.uk:8082/app/h199ltv/chunks.m3u8?nimblesessionid=55223329
+
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/IBN_TV_LOGO.png",IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://theislamicnetwork.org/wp-content/uploads/2023/06/cropped-TIN-Logo-Black-Text-300x263.png",The Islamic Network
