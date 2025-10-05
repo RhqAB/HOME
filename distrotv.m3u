@@ -1,4 +1,4 @@
-4#EXTM3U
+#EXTM3U
 
 
 
@@ -512,7 +512,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s",Madani Channel English
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gX_CNcA9w&s",Salam Bangla
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/salam%20bangla.jpg",Salam Bangla
 https://tiger-hub.vercel.app/Salam-bangla-islamic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
@@ -522,7 +522,7 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKc759OGgJQNsTjRlumAmkSZh7FiyQvBW02A&s",Hilaal TV
 https://cdn149.anystream.uk:8082/app/h199ltv/chunks.m3u8?nimblesessionid=55223329
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/IBN_TV_LOGO.png4",IBN TV
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/IBN_TV_LOGO.png",IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://theislamicnetwork.org/wp-content/uploads/2023/06/cropped-TIN-Logo-Black-Text-300x263.png",The Islamic Network
 
