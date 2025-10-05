@@ -479,9 +479,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w16960
 #https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Ba-logo.png/revision/latest/scale-to-width-down/235?cb=20220419153100",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png", Peace TV Urdu
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Peace_TV_logo_2015.jpeg.jpeg/revision/latest", Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png", Peace TV English
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Peace_TV_logo_2015.jpeg.jpeg/revision/latest", Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://islamchannelbangla.tv/wp-content/uploads/2024/04/Islam-channel-Bangla-logo.png",Islam Channel Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
@@ -520,24 +520,18 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif",Huda TV
 
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKc759OGgJQNsTjRlumAmkSZh7FiyQvBW02A&s"Hilaal TV
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKc759OGgJQNsTjRlumAmkSZh7FiyQvBW02A&s",Hilaal TV
 https://cdn149.anystream.uk:8082/app/h199ltv/chunks.m3u8?nimblesessionid=55223329
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/IBN_TV_LOGO.png",IBN TV
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/IBN_TV_LOGO.png4",IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://theislamicnetwork.org/wp-content/uploads/2023/06/cropped-TIN-Logo-Black-Text-300x263.png",The Islamic Network
 
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR_rB4e0MbJfIt8Ek0Q2w3bPIeyylfg0zkg&s", Nisha Islamic TV
 
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https:///38/ARY_Qtv_logo.png",Noor TV
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://alchetron.com/cdn/noor-tv-us-c7663d29-d947-48ef-9396-1343e9a53e1-resize-750.jpeg",Noor TV
 https://ap02.iqplay.tv:8082/iqb8002/n0r1vmhtv/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ARY_Qtv_logo.png",ARY Qtv
-https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
-https://line.now-ott.xyz/live/451AAD/3f41a2/99659.ts
-http://tv.cloudcdn.me:80/live.ts?channelId=388&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-https://aryqtv.aryzap.com/64ddaf3ddd48a880cf2d0eb98a83e20e/681f80d3/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_480p.m3u8
-http://opplex.ch:8080/live/03353290992/03353290992/3.ts
-https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
-https://aryqtv.aryzap.com/e35359cdc7c02e75eb589a08484f8d40/68d7b079/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_480p.m3u8
+
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://cdn6.aptoide.com/imgs/1/d/f/1df4b5dd73a37ffd3fdbf33bd3c61fb3_icon.png",Mercy TV
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/chunklist_w1371015493.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://cdn6.aptoide.com/imgs/1/d1fb3_icon.png",Muslim TV Thailand
