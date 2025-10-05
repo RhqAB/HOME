@@ -169,9 +169,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga BDIX
 http://172.19.178.180/servers-stailer/39srv.php?stream=maasranga&format=m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://images.seeklogo.com/logo-png/53/2/channel-9-logo-png_seeklogo-532421.png",Channel 9
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Channel9_bd.svg.webp",Channel 9
 http://172.19.178.180/servers-stailer/39srv.php?stream=channel9&format=m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://images.seeklogo.com/logo-png/53/2/channel-9-logo-png_seeklogo-532421.png",Channel 9 BDIX
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Channel9_bd.svg.webp",Channel 9 BDIX
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1gT7R-Dng6vTzdSUSVzJSo/ts
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 
@@ -207,11 +207,11 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8IBELmjBnqWoQV3Qjbzfps/ts
 http://172.19.178.180/servers-stailer/39srv.php?stream=bijoytv&format=m3u8
 
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://github.com/RhqAB/TV/blob/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://github.com/RhqAB/TV/blob/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv Backup
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv Backup
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://github.com/RhqAB/TV/blob/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv BDIX
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Logo_of_Deepto_TV.svg.png",Deepto Tv BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/ts
