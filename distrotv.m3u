@@ -1493,10 +1493,10 @@ http://filex.tv:8080/live/Multicity/1234/110033.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png",HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Geo_Kahani.png",Geo Kahani
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY Digital
 
-#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://spg/revision/latest?cb=20140511163352",aur Life HD
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images.jpg",aur Life HD
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="",BOL Entertainment
 
@@ -1512,7 +1512,7 @@ http://124.109.47.101/hls/stream1.m3u8
 
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/TV5Monde_Asie_2021.svg/revision/latest/scale-to-width-down/250?cb=20220504053723",TV5MONDE ASIE 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png",Fashion TV
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/1000",Fashion TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
 
