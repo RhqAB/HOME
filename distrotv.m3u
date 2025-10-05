@@ -1331,6 +1331,7 @@ http://172.19.178.180/servers-stailer/143srv.php?stream=hungama&format=m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727", Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png",Q Toonz
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png", The Q Kahaniyan
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png",ToonzKids
@@ -1443,6 +1444,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA84x18JTac-ud61DIKvpe0o/ts
 https://tvsen6.aynaott.com/aakaashBangla/tracks-v1a1/mono.ts.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp/revision/latest/scale-to-width-down/250?cb=20230226135533", DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus
 http://172.19.178.180/servers-stailer/147srv.php?stream=starplus&format=m3u8
@@ -1476,7 +1478,7 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/download.png",DD National
-
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest?cb=20200827090349", ETV HD
 
 
@@ -1928,6 +1930,8 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u
 https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Business.jpg/revision/latest?cb=20200803071301",ZEE BUSINESS
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Business1301",NDTV Profit
+https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/ET_Now_Swadesh.jpg/revision/latest?cb=20211004022605",ET NOW SWADESH
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png",Sansad TV
