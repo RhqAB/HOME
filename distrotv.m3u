@@ -1650,13 +1650,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/ts
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Mastiii
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Mastiii_2023.jpg/revision/latest",Mastiii
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20240313185236",ZING
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png",E24
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg/revision/latest",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 
@@ -1665,20 +1665,20 @@ https://hls.sunmusic.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png", Hindi Hits
 
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo=".com/wp-content/uploads/2022/04/Showbox_logo-5.png", Show Box
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/ShowBox_TV_logo.png", Show Box
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://pbs.twimg.com/profile_images/1027810641241763840/oA04Vdv2_400x400.jpg", Shemaroo Filmigaane
 
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://lh3.googleusercontent.com/proxy/AI5OUaZD8akljiR3aBBqPk9_S15_xNMS21gGCEbHLcTLiXkCN_OWel3CJISfD4ctnw9wt62Q9I2md35P8xkBale7HyLDPUuRfxTjtlejWRkwYf7xTkjKGGCg",BALLE BALLE
 
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png", Trcae Urban
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Trace_Urban_2022.svg/revision/latest", Trcae Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png", VIBE TO BEAT
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es", Concert TV
 
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png",Qello Concerts
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Qello_Concerts.svg/revision/latest",Qello Concerts
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8
 
 
