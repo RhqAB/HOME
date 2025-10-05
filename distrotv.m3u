@@ -1633,13 +1633,11 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",MUSIC INDIA
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434",9XM
-
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png/revision/latest/scale-to-width-down/220?cb=20230610200008",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="MUSIC",8XM
-https://epiconvh.akamaized.net/live/showbox/master.m3u8  
-
+  
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/MTV_2021_%283D%29_%28Print%29.svg/revision/latest?cb=20220218200449",MTv HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5h21Af785p13DD2ctFht6Q/ts
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237",MTV BEATS HD
@@ -1663,8 +1661,8 @@ https://hls.sunmusic.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png", Hindi Hits
 
-howboxchannel.com/wp-content/uploads/2022/04/Showbox_logo-5.png", Show Box
-
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo=".com/wp-content/uploads/2022/04/Showbox_logo-5.png", Show Box
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://pbs.twimg.com/profile_images/1027810641241763840/oA04Vdv2_400x400.jpg", Shemaroo Filmigaane
 
 
