@@ -660,6 +660,7 @@ https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD BDIX
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png/revision/latest",Ary Sports 
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/ts
+http://172.19.178.180/servers-stailer/49srv.php?stream=a_sports_hd&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png/revision/latest",Ary Sports Backup
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
@@ -688,6 +689,7 @@ http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_2_hd&form
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest",Sony Sports Ten 3 HD 
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU/m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU/m3u8
+http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_3_hd&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD
 http://172.19.178.180/servers-stailer/49srv.php?stream=sony_sports_ten_4_hd&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest",Sony Sports Ten 5 HD
@@ -991,6 +993,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EURO SPORTS BDIX
+http://172.19.178.180/servers-stailer/49srv.php?stream=eurosports_hd&format=m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1 HD
 
