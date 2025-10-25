@@ -19,20 +19,20 @@
 http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 2
 http://147.93.154.65/Bein3/index.m3u8
+http://172.19.178.180/servers-stailer/149srv.php?stream=CLOUD-TV-02&format=m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 3
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 4
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/tsportshd/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-04&format=m3u8
-
+http://172.19.178.180/servers-stailer/29srv.php?stream=AO-E01-02&format=m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 5
-http://172.19.178.180/servers-stailer/149srv.php?stream=CLOUD-TV-02&format=m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 6
 http://172.27.27.90:8080/tv1/index.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 7
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 6
 http://172.27.27.90:8080/tv2/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 7
+
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75",BTV National
@@ -636,11 +636,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/m3u8
 http://starshare.org:8080/live/134134/134134/1080.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167577.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/m3u8
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_3&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/220?cb=20230128174436",Star Sports Select 1
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167578.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/m3u8
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_1_hd&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest/scale-to-width-down/220?cb=20230128175646",Star Sports Select 2
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/m3u8
 https://rex-streaming.vercel.app/api/x/167579.m3u8
@@ -648,6 +650,8 @@ http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373201&extension=ts
 http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/7343.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/m3u8
+http://172.19.178.180/servers-stailer/49srv.php?stream=star_sports_select_2_hd&format=m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Ptvsportslogo2023.png/revision/latest",PTV SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/167567.ts
