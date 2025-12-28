@@ -1038,13 +1038,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo/m3u8
 https://tvsen6.aynascope.net/natgeo/tracks-v1a1/2025/11/17/22/40/02-09176.ts
 http://172.19.178.180/servers-stailer/145srv.php?stream=ngo_gerophy_hd&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png",National Geographic BDIX
-http://172.19.178.180/servers-stailer/142srv.php?stream=natgeowild&format=m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 http://172.19.178.180/servers-stailer/145srv.php?stream=investigation_discovery&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2016/01/channel-logo-discovery-history.png",Discovery History
-http://cord-cutter.net:8080/live/70453597/56651433/53694.ts
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.png",Discovery Science
 http://172.19.178.180/servers-stailer/145srv.php?stream=discovery_science&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
@@ -1115,8 +1115,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://172.19.178.180/servers-stailer/145srv.php?stream=travel_xp&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP 2
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=70970&uid=15844&deviceMac=00:1A:79:ED:B7:12
-https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png", Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
@@ -1175,7 +1173,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://172.19.178.180/servers-stailer/145srv.php?stream=history_tv_hd&format=m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
 http://172.19.178.180/servers-stailer/145srv.php?stream=history_tv_hd&format=m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest?cb=20200104222246", RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F69038be4-30d8-4540-8ca8-44af31f4f559%2FMilitary_Heroes_1920x1080_channel_image.jpg",Military Heroes
 
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fopbuVemDrgg-mkpUIsDS4GSQDgPhluXw&s", DOCU+
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/poster_20210316_230444.jpg",Documentary+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/16th/1a39833a-dfca-4d64-9a3a-531a265640c8.png",5 Minute Crafts
 https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/poster_20230224_000720.jpg" group-title="Featured",CraftsyTV
@@ -1202,23 +1210,11 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237",Fail Army
 https://6e7da950326e49ec84ab577249b1fc21.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_FailArmy/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20240520T215804SQUARE.png",Always Funny Videos
-https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
-https://jmp2.uk/sam-USBA1600001XM.m3u8
-https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.peopleareawesome.com/cdn/shop/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png?v=1620654491",People Are Awesome
 https://cda1577223674f46aaebd66cf2cfe1ca.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_PeopleAreAwesome/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20240924T010837SQUARE.png",Game Show Central
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
-https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest?cb=20200104222246", RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F69038be4-30d8-4540-8ca8-44af31f4f559%2FMilitary_Heroes_1920x1080_channel_image.jpg",Military Heroes
 
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fopbuVemDrgg-mkpUIsDS4GSQDgPhluXw&s", DOCU+
-https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/poster_20210316_230444.jpg",Documentary+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://logowik.com/content/uploads/images/investigation3804.logowik.com.webp",Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
