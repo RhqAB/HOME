@@ -734,6 +734,8 @@ http://xtv.ooo:8080/live/03353290992/03353290992/238480
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/ss_football_225-removebg-preview.png",SuperSport Football Backup
 http://atg100.xyz:80/live/Richardneu/951425AF6681/348285.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",Persiana Sports Backup 
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.dstv.com/media/fsmkqhfo/ss_laliga.png?width=330", La Liga TV
 http://xtv.ooo:8080/live/03353290992/03353290992/238479
 http://opplex.tv:8080/live/15155419/16175512/238479.ts
@@ -770,8 +772,7 @@ http://atg100.xyz:80/live/443432469215731/4362020837/348316.ts
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 http://atg100.xyz:80/live/443432469215731/4362020837/348316.ts
 http://172.19.178.180/servers-stailer/148srv.php?stream=LaLiga0&format=m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",Persiana Sports Backup 
-https://spstr.abntv.live/hls/psstream.m3u8
+
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png",DAZN 1
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/530.ts
 http://bit.com.vc:80/almir1234/almir1234/976676
@@ -796,7 +797,7 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/531.ts
 
 
 https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://cdn6.aptoide.com/imgs/d/d/6/dd6e01922050c7a0c183f3b5acc8ce0a_icon.png",M Sports
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://cdn6.aptoide.com/imgs/d/d/6/dd6e01922050c7a0c183f3b5acc8ce0a_icon.png",M Sports
 
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741",TNT Sports 1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
@@ -848,12 +849,12 @@ http://serverinfo.one:8080/live/A4325544/443366/429428.ts
 http://papagal.shop:8080/Anca_Paula_L/NLJ4lHsN8trI2EYAcCyOVC8w0kUYgd/56630
 https://line.now-ott.xyz/live/451AAD/3f41a2/670672.ts
 http://atg100.xyz:80/live/443432469215731/4362020837/311557.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal_plus_logo.svg/2560px-Canal_plus_logo.svg.png",CANAL+
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI3OTJf/arenapremiumtv1.png",Arena Sports 1 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="",Arena Sports 2
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.pngg",Arena Sports 3
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeokB_OfolYxQcliQKXWRlypLRRkB6xNjWQ&s",Sport italia
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal_plus_logo.svg/2560px-Canal_plus_logo.svg.png",CANAL+
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI3OTJf/arenapremiumtv1.png",Arena Sports 1 
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="",Arena Sports 2
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.pngg",Arena Sports 3
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeokB_OfolYxQcliQKXWRlypLRRkB6xNjWQ&s",Sport italia
 
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/ae70b6f8-8adb-4146-becd-4e069f5277c0-sport-italia-1643297885-width308-quality90.png",Sport Italia Plus
 
