@@ -721,6 +721,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN 
 https://ap02.iqplay.tv:8082/iqb8002/mec31mhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN Backup 1
@@ -1903,5 +1904,12 @@ For more on scraping GitHub and how it may affect your rights, please review our
 
 
 
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
-https://playztv.pages.dev/promo/master.m3u8
+
+# By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2026-07-18 21:40:47 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
+
